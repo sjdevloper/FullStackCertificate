@@ -5,7 +5,7 @@
 4. [Developing Front-End Apps with React](https://coursera.org/share/3c41f8c163c87f4d857efbceae2c60c1)
 5. [Developing Back-End Apps with Node.js and Express](https://coursera.org/share/b025f8ddca696d82e1b737480c82b769)
 6. [Python for Data Science, AI & Development](https://coursera.org/share/3caee43c200fb50056441046185fef5f)
-7. Developing AI Applications with Python and Flask
+7. [Developing AI Applications with Python and Flask](https://coursera.org/share/6bb9ee7433bd53aef1363e5405ddaad5)
 8. Django Application Development with SQL and Databases
 9. Introduction to Containers w/ Docker, Kubernetes & OpenShift
 10. Application Development using Microservices and Serverless
